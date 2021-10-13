@@ -1,6 +1,10 @@
 
 // About 02
-.about-area2{
+.about-area{
+    background-color: rgb(245, 245, 245);
+    h2{
+        color: $kaprired;
+    }
     // left content
     .about-caption{
         padding-left: 50px;
